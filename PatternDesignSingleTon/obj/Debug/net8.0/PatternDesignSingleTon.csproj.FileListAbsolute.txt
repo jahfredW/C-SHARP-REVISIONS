@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\bin\Debug\net8.0\PatternDesignSingleTon.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\bin\Debug\net8.0\PatternDesignSingleTon.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\bin\Debug\net8.0\PatternDesignSingleTon.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\bin\Debug\net8.0\PatternDesignSingleTon.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\bin\Debug\net8.0\PatternDesignSingleTon.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\obj\Debug\net8.0\PatternDesignSingleTon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\obj\Debug\net8.0\PatternDesignSingleTon.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\obj\Debug\net8.0\PatternDesignSingleTon.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\obj\Debug\net8.0\PatternDesignSingleTon.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\obj\Debug\net8.0\PatternDesignSingleTon.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\obj\Debug\net8.0\refint\PatternDesignSingleTon.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\obj\Debug\net8.0\PatternDesignSingleTon.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\obj\Debug\net8.0\PatternDesignSingleTon.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\PatternDesignSingleTon\obj\Debug\net8.0\ref\PatternDesignSingleTon.dll

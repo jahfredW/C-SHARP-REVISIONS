@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\bin\Debug\net8.0\POO_basique.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\bin\Debug\net8.0\POO_basique.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\bin\Debug\net8.0\POO_basique.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\bin\Debug\net8.0\POO_basique.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\bin\Debug\net8.0\POO_basique.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\obj\Debug\net8.0\POO_basique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\obj\Debug\net8.0\POO_basique.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\obj\Debug\net8.0\POO_basique.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\obj\Debug\net8.0\POO_basique.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\obj\Debug\net8.0\POO_basique.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\obj\Debug\net8.0\refint\POO_basique.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\obj\Debug\net8.0\POO_basique.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\obj\Debug\net8.0\POO_basique.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\POO_basique\obj\Debug\net8.0\ref\POO_basique.dll

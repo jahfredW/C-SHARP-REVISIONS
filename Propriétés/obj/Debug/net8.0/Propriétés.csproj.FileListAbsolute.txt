@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\bin\Debug\net8.0\Propriétés.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\bin\Debug\net8.0\Propriétés.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\bin\Debug\net8.0\Propriétés.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\bin\Debug\net8.0\Propriétés.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\bin\Debug\net8.0\Propriétés.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\obj\Debug\net8.0\Propriétés.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\obj\Debug\net8.0\Propriétés.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\obj\Debug\net8.0\Propriétés.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\obj\Debug\net8.0\Propriétés.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\obj\Debug\net8.0\Propriétés.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\obj\Debug\net8.0\refint\Propriétés.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\obj\Debug\net8.0\Propriétés.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\obj\Debug\net8.0\Propriétés.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Propriétés\obj\Debug\net8.0\ref\Propriétés.dll

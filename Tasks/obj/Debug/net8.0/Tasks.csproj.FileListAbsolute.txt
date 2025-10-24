@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\bin\Debug\net8.0\Tasks.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\bin\Debug\net8.0\Tasks.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\bin\Debug\net8.0\Tasks.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\bin\Debug\net8.0\Tasks.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\bin\Debug\net8.0\Tasks.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\obj\Debug\net8.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\obj\Debug\net8.0\Tasks.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\obj\Debug\net8.0\Tasks.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\obj\Debug\net8.0\Tasks.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\obj\Debug\net8.0\refint\Tasks.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\obj\Debug\net8.0\Tasks.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\obj\Debug\net8.0\Tasks.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Tasks\obj\Debug\net8.0\ref\Tasks.dll

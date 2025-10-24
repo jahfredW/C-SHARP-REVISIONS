@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\bin\Debug\net8.0\types dynamiques.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\bin\Debug\net8.0\types dynamiques.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\bin\Debug\net8.0\types dynamiques.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\bin\Debug\net8.0\types dynamiques.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\bin\Debug\net8.0\types dynamiques.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\obj\Debug\net8.0\types dynamiques.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\obj\Debug\net8.0\types dynamiques.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\obj\Debug\net8.0\types dynamiques.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\obj\Debug\net8.0\types dynamiques.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\obj\Debug\net8.0\types dynamiques.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\obj\Debug\net8.0\refint\types dynamiques.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\obj\Debug\net8.0\types dynamiques.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\obj\Debug\net8.0\types dynamiques.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\types dynamiques\obj\Debug\net8.0\ref\types dynamiques.dll

@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\bin\Debug\net8.0\StringOperations.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\bin\Debug\net8.0\StringOperations.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\bin\Debug\net8.0\StringOperations.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\bin\Debug\net8.0\StringOperations.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\bin\Debug\net8.0\StringOperations.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\obj\Debug\net8.0\StringOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\obj\Debug\net8.0\StringOperations.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\obj\Debug\net8.0\StringOperations.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\obj\Debug\net8.0\StringOperations.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\obj\Debug\net8.0\StringOperations.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\obj\Debug\net8.0\refint\StringOperations.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\obj\Debug\net8.0\StringOperations.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\obj\Debug\net8.0\StringOperations.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\StringOperations\obj\Debug\net8.0\ref\StringOperations.dll

@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\bin\Debug\net8.0\Multiplication_exercice.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\bin\Debug\net8.0\Multiplication_exercice.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\bin\Debug\net8.0\Multiplication_exercice.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\bin\Debug\net8.0\Multiplication_exercice.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\bin\Debug\net8.0\Multiplication_exercice.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\obj\Debug\net8.0\Multiplication_exercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\obj\Debug\net8.0\Multiplication_exercice.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\obj\Debug\net8.0\Multiplication_exercice.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\obj\Debug\net8.0\Multiplication_exercice.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\obj\Debug\net8.0\Multiplication_exercice.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\obj\Debug\net8.0\refint\Multiplication_exercice.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\obj\Debug\net8.0\Multiplication_exercice.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\obj\Debug\net8.0\Multiplication_exercice.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Multiplication_exercice\obj\Debug\net8.0\ref\Multiplication_exercice.dll

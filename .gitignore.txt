@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+.vscode/
+FileContentIndex/
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Others
+*.cache
+*.pdb
+*.db

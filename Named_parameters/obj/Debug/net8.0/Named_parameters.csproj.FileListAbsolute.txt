@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\bin\Debug\net8.0\Named_parameters.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\bin\Debug\net8.0\Named_parameters.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\bin\Debug\net8.0\Named_parameters.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\bin\Debug\net8.0\Named_parameters.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\bin\Debug\net8.0\Named_parameters.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\obj\Debug\net8.0\Named_parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\obj\Debug\net8.0\Named_parameters.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\obj\Debug\net8.0\Named_parameters.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\obj\Debug\net8.0\Named_parameters.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\obj\Debug\net8.0\Named_parameters.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\obj\Debug\net8.0\refint\Named_parameters.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\obj\Debug\net8.0\Named_parameters.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\obj\Debug\net8.0\Named_parameters.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Named_parameters\obj\Debug\net8.0\ref\Named_parameters.dll

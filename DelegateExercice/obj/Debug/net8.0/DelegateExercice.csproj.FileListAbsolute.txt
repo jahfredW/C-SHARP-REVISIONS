@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\bin\Debug\net8.0\DelegateExercice.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\bin\Debug\net8.0\DelegateExercice.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\bin\Debug\net8.0\DelegateExercice.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\bin\Debug\net8.0\DelegateExercice.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\bin\Debug\net8.0\DelegateExercice.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\obj\Debug\net8.0\DelegateExercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\obj\Debug\net8.0\DelegateExercice.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\obj\Debug\net8.0\DelegateExercice.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\obj\Debug\net8.0\DelegateExercice.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\obj\Debug\net8.0\DelegateExercice.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\obj\Debug\net8.0\refint\DelegateExercice.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\obj\Debug\net8.0\DelegateExercice.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\obj\Debug\net8.0\DelegateExercice.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\DelegateExercice\obj\Debug\net8.0\ref\DelegateExercice.dll

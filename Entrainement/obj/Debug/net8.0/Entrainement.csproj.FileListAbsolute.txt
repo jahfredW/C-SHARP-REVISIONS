@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\bin\Debug\net8.0\Entrainement.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\bin\Debug\net8.0\Entrainement.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\bin\Debug\net8.0\Entrainement.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\bin\Debug\net8.0\Entrainement.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\bin\Debug\net8.0\Entrainement.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\refint\Entrainement.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\ref\Entrainement.dll

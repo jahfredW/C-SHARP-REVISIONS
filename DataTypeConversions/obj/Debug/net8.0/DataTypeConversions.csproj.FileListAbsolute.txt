@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\bin\Debug\net8.0\DataTypeConversions.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\bin\Debug\net8.0\DataTypeConversions.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\bin\Debug\net8.0\DataTypeConversions.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\bin\Debug\net8.0\DataTypeConversions.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\bin\Debug\net8.0\DataTypeConversions.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\obj\Debug\net8.0\DataTypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\obj\Debug\net8.0\DataTypeConversions.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\obj\Debug\net8.0\DataTypeConversions.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\obj\Debug\net8.0\DataTypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\obj\Debug\net8.0\DataTypeConversions.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\obj\Debug\net8.0\refint\DataTypeConversions.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\obj\Debug\net8.0\DataTypeConversions.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\obj\Debug\net8.0\DataTypeConversions.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\DataTypeConversions\obj\Debug\net8.0\ref\DataTypeConversions.dll

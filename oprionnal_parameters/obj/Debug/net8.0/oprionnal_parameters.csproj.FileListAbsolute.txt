@@ -1,0 +1,14 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\bin\Debug\net8.0\oprionnal_parameters.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\bin\Debug\net8.0\oprionnal_parameters.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\bin\Debug\net8.0\oprionnal_parameters.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\bin\Debug\net8.0\oprionnal_parameters.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\bin\Debug\net8.0\oprionnal_parameters.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\obj\Debug\net8.0\oprionnal_parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\obj\Debug\net8.0\oprionnal_parameters.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\obj\Debug\net8.0\oprionnal_parameters.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\obj\Debug\net8.0\oprionnal_parameters.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\obj\Debug\net8.0\oprionnal_parameters.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\obj\Debug\net8.0\refint\oprionnal_parameters.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\obj\Debug\net8.0\oprionnal_parameters.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\obj\Debug\net8.0\oprionnal_parameters.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\oprionnal_parameters\obj\Debug\net8.0\ref\oprionnal_parameters.dll
