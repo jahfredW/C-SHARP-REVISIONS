@@ -1,0 +1,15 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\bin\Debug\net8.0\Expressions_lambda.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\bin\Debug\net8.0\Expressions_lambda.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\bin\Debug\net8.0\Expressions_lambda.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\bin\Debug\net8.0\Expressions_lambda.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\bin\Debug\net8.0\Expressions_lambda.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\Expressions_lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\Expressions_lambda.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\Expressions_lambda.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\Expressions_lambda.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\Expressions_lambda.sourcelink.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\Expressions_lambda.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\refint\Expressions_lambda.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\Expressions_lambda.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\Expressions_lambda.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Expressions_lambda\obj\Debug\net8.0\ref\Expressions_lambda.dll
