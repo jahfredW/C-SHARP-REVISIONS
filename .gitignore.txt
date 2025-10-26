@@ -3,6 +3,9 @@
 .vscode/
 FileContentIndex/
 
+vs\Entrainement
+.vs\
+
 # Build folders
 bin/
 obj/

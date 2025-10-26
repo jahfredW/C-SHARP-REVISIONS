@@ -12,3 +12,4 @@ C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\r
 C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.pdb
 C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.genruntimeconfig.cache
 C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\ref\Entrainement.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Entrainement\obj\Debug\net8.0\Entrainement.sourcelink.json
