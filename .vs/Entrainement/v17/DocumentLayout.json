@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|c:\\users\\fredericgruwe\\source\\repos\\entrainement\\events\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|solutionrelative:events\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|c:\\users\\fredericgruwe\\source\\repos\\entrainement\\events\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|solutionrelative:events\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|c:\\users\\fredericgruwe\\source\\repos\\entrainement\\events\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|solutionrelative:events\\videoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|solutionrelative:events\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|c:\\users\\fredericgruwe\\source\\repos\\entrainement\\events\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|solutionrelative:events\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DE980A9C-F290-4A14-A48B-14031C8A50EB}|Linq\\Linq.csproj|c:\\users\\fredericgruwe\\source\\repos\\entrainement\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE980A9C-F290-4A14-A48B-14031C8A50EB}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|c:\\users\\fredericgruwe\\source\\repos\\entrainement\\events\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C709BDF-EFF0-473E-AE2F-BB4C0553311E}|Events\\Events.csproj|solutionrelative:events\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B6B58F3-3797-4784-AE03-7EFED03E264B}|Types_nullables\\Types_nullables.csproj|c:\\users\\fredericgruwe\\source\\repos\\entrainement\\types_nullables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6B58F3-3797-4784-AE03-7EFED03E264B}|Types_nullables\\Types_nullables.csproj|solutionrelative:types_nullables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1FFCE3-240F-490C-979B-34CD643F7602}|Extension_methode\\Extension_methode.csproj|c:\\users\\fredericgruwe\\source\\repos\\entrainement\\extension_methode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1FFCE3-240F-490C-979B-34CD643F7602}|Extension_methode\\Extension_methode.csproj|solutionrelative:extension_methode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 161,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,55 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MessageService.cs",
-              "DocumentMoniker": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\MessageService.cs",
-              "RelativeDocumentMoniker": "Events\\MessageService.cs",
-              "ToolTip": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\MessageService.cs",
-              "RelativeToolTip": "Events\\MessageService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Types_nullables\\Program.cs",
+              "RelativeDocumentMoniker": "Types_nullables\\Program.cs",
+              "ToolTip": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Types_nullables\\Program.cs",
+              "RelativeToolTip": "Types_nullables\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCIAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T09:03:52.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T11:31:38.681Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Linq\\Program.cs",
+              "RelativeToolTip": "Linq\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:51:42.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Extension_methode\\Program.cs",
+              "RelativeDocumentMoniker": "Extension_methode\\Program.cs",
+              "ToolTip": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Extension_methode\\Program.cs",
+              "RelativeToolTip": "Extension_methode\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:46:56.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Video.cs",
               "DocumentMoniker": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\Video.cs",
               "RelativeDocumentMoniker": "Events\\Video.cs",
               "ToolTip": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\Video.cs",
               "RelativeToolTip": "Events\\Video.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-25T08:56:20.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "VideoEncoder.cs",
               "DocumentMoniker": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\VideoEncoder.cs",
               "RelativeDocumentMoniker": "Events\\VideoEncoder.cs",
               "ToolTip": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\VideoEncoder.cs",
               "RelativeToolTip": "Events\\VideoEncoder.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvyAAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T08:55:06.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T08:55:06.197Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\MessageService.cs",
+              "RelativeDocumentMoniker": "Events\\MessageService.cs",
+              "ToolTip": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\MessageService.cs",
+              "RelativeToolTip": "Events\\MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T09:03:52.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\Program.cs",
               "RelativeDocumentMoniker": "Events\\Program.cs",
               "ToolTip": "C:\\Users\\FredericGRUWE\\source\\repos\\Entrainement\\Events\\Program.cs",
               "RelativeToolTip": "Events\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAACIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwDwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T07:55:26.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-25T07:55:26.075Z"
             }
           ]
         }

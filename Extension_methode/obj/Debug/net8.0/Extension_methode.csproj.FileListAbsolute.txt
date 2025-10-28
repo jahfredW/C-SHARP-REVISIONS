@@ -1,0 +1,15 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\bin\Debug\net8.0\Extension_methode.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\bin\Debug\net8.0\Extension_methode.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\bin\Debug\net8.0\Extension_methode.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\bin\Debug\net8.0\Extension_methode.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\bin\Debug\net8.0\Extension_methode.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\Extension_methode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\Extension_methode.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\Extension_methode.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\Extension_methode.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\Extension_methode.sourcelink.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\Extension_methode.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\refint\Extension_methode.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\Extension_methode.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\Extension_methode.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Extension_methode\obj\Debug\net8.0\ref\Extension_methode.dll

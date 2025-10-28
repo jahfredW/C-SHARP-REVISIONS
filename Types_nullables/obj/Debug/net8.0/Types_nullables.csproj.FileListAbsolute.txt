@@ -1,0 +1,15 @@
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\bin\Debug\net8.0\Types_nullables.exe
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\bin\Debug\net8.0\Types_nullables.deps.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\bin\Debug\net8.0\Types_nullables.runtimeconfig.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\bin\Debug\net8.0\Types_nullables.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\bin\Debug\net8.0\Types_nullables.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\Types_nullables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\Types_nullables.AssemblyInfoInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\Types_nullables.AssemblyInfo.cs
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\Types_nullables.csproj.CoreCompileInputs.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\Types_nullables.sourcelink.json
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\Types_nullables.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\refint\Types_nullables.dll
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\Types_nullables.pdb
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\Types_nullables.genruntimeconfig.cache
+C:\Users\FredericGRUWE\source\repos\Entrainement\Types_nullables\obj\Debug\net8.0\ref\Types_nullables.dll
